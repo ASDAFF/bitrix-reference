@@ -7,3 +7,5 @@ _Версия документа от 28.04.2017_
 ### [Документация по API D7](https://github.com/ASDAFF/bitrix-reference/raw/master/api_d7/api_d7.chm)
 
 _Версия документа от 29.05.2017_
+
+### [курс "Разработчик Bitrix Framework"](https://github.com/ASDAFF/bitrix-reference/raw/master/api_d7/api_d7.chm)
